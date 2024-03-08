@@ -1,0 +1,3 @@
+# JavaScript Memory Game
+
+This Memory Game was an afternoon bootcamp challenge. It recreates the game Simon but with unique sounds for each button (sounds downloaded for free from **Pixabay.com**). We were provided with HTML and CSS and were shown a preview of how the final product should function, but we were tasked with coding the JS from scratch. I modified the CSS in order to add some enhancements over the intended final product: the buttons now appear to depress and the buttons spin as a whole on game over.
