@@ -13,7 +13,6 @@ let turn = 1;
 window.addEventListener("keydown", () => {
 	if (!gameInProgress) {
 		gameInProgress = true;
-		s;
 		sequence.splice(0);
 		playerSequence.splice(0);
 		let z = 3;
